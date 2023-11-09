@@ -23,3 +23,5 @@ This project is a static page of a basic and simple calendar.
 ## :link: Link to see the project in action
 
 [Aquí puedes visitar mi sitio web](https://calendar-adrian-dev.netlify.app/)
+
+## :wave: Greetings!!
