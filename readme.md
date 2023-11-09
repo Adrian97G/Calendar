@@ -18,8 +18,8 @@ This project is a static page of a basic and simple calendar.
 
 ## :camera_flash: Project Image
 
-![Calendar](Calendar.png)
+![Calendar](https://github.com/Adrian97G/Calendar/blob/main/Calendar.PNG)
 
-## :link: ## Link to see the project in action
+## :link: Link to see the project in action
 
 [Aquí puedes visitar mi sitio web](https://calendar-adrian-dev.netlify.app/)
